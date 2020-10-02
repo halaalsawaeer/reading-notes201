@@ -49,3 +49,24 @@ an article
 ● Code samples
 ● Text that supports the main
 body of an article
+The new elements provide clearer code (compared
+with using multiple <div> elements).
+ it reduces the use of div element
+  Older browsers that do not understand HTML5
+elements need to be told which elements are
+block-level elements.
+  To make HTML5 elements work in Internet Explorer 8
+(and older versions of IE), extra JavaScript is needed,
+which is available free from Google.
+  A wireframe is a simple sketch of the key
+information that needs to go on each page of a
+site. It shows the hierarchy of the information
+and how much space it might require
+  Good navigation tends to follow these principles : Concise,Clear,selective,Context, Interactive and Consistent.
+   It's important to understand who your target audience
+is, why they would come to your site, what information
+they want to find and when they are likely to return.
+  Site maps allow you to plan the structure of a site.
+Visual hierarchy helps
+visitors understand what you are trying to tell them
+  
