@@ -31,3 +31,21 @@ blocks on the site such as the primary site navigation
 a container for any section of a
 page that could stand alone and
 potentially be syndicated.
+the aside element has two purposes that are depending on whether it is in the article elemnt or not .
+if t is inside the article element it contain information about the article but not essential such as a grossery about the the article.
+if it is outside the article it acts as a container for a content that is related to the whole site.
+The section element groups
+related content together, and
+typically each section would
+have its own heading.
+the figure element t can be used
+to contain any content that is
+referenced from the main flow of
+an article
+ such as : ● Images
+● Videos
+● Graphs
+● Diagrams
+● Code samples
+● Text that supports the main
+body of an article
