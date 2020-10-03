@@ -15,7 +15,7 @@ block-level and inline elements together.
 
 **meta** element gives information about the webpage.
 
-  **Escape characteristic**
+  **Escape characteristics**
   there are some charecters
   that are used in and reserved by HTML code. (For example, the
 left and right angled brackets.) and to make them visable for the user we have to use some symbols. for example &#60 is used to show the left angled bracket.
