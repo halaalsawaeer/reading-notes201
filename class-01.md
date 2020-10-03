@@ -5,10 +5,10 @@ the webpage is like a regular printed document that we face every day.
 attributes are used to give more information about the content of the element.
 HTML5 allows you to use uppercase attribute names and omit the quotemarks, but this is not recommended.
 we can see any codes of any webpage by click the right click of the mouse and clicking on the __view page source__
-<iframe> is like a window in your webpage . it allows you to look into another page with the width and the height that you choose.
+iframe is like a window in your webpage . it allows you to look into another page with the width and the height that you choose.
 The <div> and <span> elements allow you to group
 block-level and inline elements together.
-<meta> gives information about the webpage.
+meta gives information about the webpage.
   ##Escape charectars there are some charecters
   that are used in and reserved by HTML code. (For example, the
 left and right angled brackets.) and to make them visable for the user we have to use some symbols. for example &#60 is used to show the left angled bracket.
