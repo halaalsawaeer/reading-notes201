@@ -2,7 +2,7 @@
 
 
 
-**_this  is a website to hold the 201 reading notes_**
+**_This  is a website to hold the 201 reading notes_**
 
 
 
