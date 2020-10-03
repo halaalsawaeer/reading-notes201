@@ -69,4 +69,13 @@ they want to find and when they are likely to return.
   Site maps allow you to plan the structure of a site.
 Visual hierarchy helps
 visitors understand what you are trying to tell them
+  JAVASCRIPT allows you to make webpages more interactive.
+  You can use JavaScript to add
+elements, attributes, and text to the
+page, or remove them
+  PROGRAM RULES
+You can specify a set of steps for
+the browser to follow (like a recipe),
+which allows it to access or change the
+content of a page. 
   
