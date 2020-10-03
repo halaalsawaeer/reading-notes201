@@ -93,8 +93,10 @@ To write a script, you need to first
 state your goal and then list the
 tasks that need to be completed in
 order to achieve it. 
- Vocabulary: The words that computers
-understand
-• Syntax: How you put those words together to
-create instructions computers can follow 
+
+objects :each physical thing in
+the world can be represented as an object
+proparites : they are the characteristics of the objects
+events : used to trigger a specific section of the code
+Methods represent things people need to do with objects. 
 
