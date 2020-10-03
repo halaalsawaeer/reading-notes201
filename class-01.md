@@ -139,16 +139,14 @@ events : used to trigger a specific section of the code
 Methods : represent things people need to do with objects. 
 
 HOW A BROWSER
-SEES A WEB PAGE
+SEES A WEB PAGE?
 
- 1: RECEIVE A PAGE AS
-HTML CODE 
-2: CREATE A MODEL OF
-THE PAGE AND STORE
-IT IN MEMORY
-3: USE A RENDERING
+ IT RECEIVE A PAGE AS
+HTML CODE,THEN IT CREATES A MODEL OF
+THE PAGE AND STORES
+IT IN MEMORY, AFTER THAT IT USES A RENDERING
 ENGINE TO SHOW THE
-PAGE ON SCREEN 
+PAGE ON SCREEN .
 
 The HTML **script** element is used in HTML pages
 to tell the browser to load the JavaScript file (rather like
