@@ -79,3 +79,6 @@ the browser to follow (like a recipe),
 which allows it to access or change the
 content of a page. 
   
+REACT TO EVENTS
+You can specify that a script should run
+when a specific event has occurred.
