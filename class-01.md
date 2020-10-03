@@ -96,9 +96,11 @@ site. It shows the hierarchy of the information
 and how much space it might require
 
   Good navigation tends to follow these principles : Concise,Clear,selective,Context, Interactive and Consistent.
+  
    It's important to understand who your target audience
 is, why they would come to your site, what information
 they want to find and when they are likely to return.
+
 
   Site maps allow you to plan the structure of a site.
 Visual hierarchy helps
@@ -130,11 +132,15 @@ objects :each physical thing in
 the world can be represented as an object
 
 proparites : they are the characteristics of the objects
+
 events : used to trigger a specific section of the code
-Methods represent things people need to do with objects. 
+
+
+Methods : represent things people need to do with objects. 
 
 HOW A BROWSER
 SEES A WEB PAGE
+
  1: RECEIVE A PAGE AS
 HTML CODE 
 2: CREATE A MODEL OF
