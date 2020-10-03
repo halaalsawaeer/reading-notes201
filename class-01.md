@@ -93,4 +93,8 @@ To write a script, you need to first
 state your goal and then list the
 tasks that need to be completed in
 order to achieve it. 
+ Vocabulary: The words that computers
+understand
+• Syntax: How you put those words together to
+create instructions computers can follow 
 
