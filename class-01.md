@@ -99,4 +99,19 @@ the world can be represented as an object
 proparites : they are the characteristics of the objects
 events : used to trigger a specific section of the code
 Methods represent things people need to do with objects. 
+HOW A BROWSER
+SEES A WEB PAGE
+ 1: RECEIVE A PAGE AS
+HTML CODE 
+2: CREATE A MODEL OF
+THE PAGE AND STORE
+IT IN MEMORY
+3. 3: USE A RENDERING
+ENGINE TO SHOW THE
+PAGE ON SCREEN 
+
+The HTML script element is used in HTML pages
+to tell the browser to load the JavaScript file (rather like
+the <link> element can be used to load a CSS file). 
+
 
