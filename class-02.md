@@ -36,3 +36,14 @@ up an entire paragraph
 The **q** element is used for
 shorter quotes that sit within
 a paragraph.
+
+If you use an abbreviation or
+an acronym, then the abbr
+element can be used.
+
+When you are referencing a
+piece of work such as a book,
+film or research paper, the
+cite element can be used
+to indicate where the citation is
+from.
