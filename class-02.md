@@ -47,3 +47,35 @@ film or research paper, the
 cite element can be used
 to indicate where the citation is
 from.
+The dfn element is used to
+indicate the defining instance of
+a new term.
+
+The address element has
+quite a specific use: to contain
+contact details for the author of
+the page.
+It can contain a physical address,
+but it does not have to. For
+example, it may also contain a
+phone number or email address.
+Browsers often display the
+content of the <address>
+element in italics.
+  The ins element can be used
+to show content that has been
+inserted into a document, while
+the del element can show text
+that has been deleted from it.
+  The s element indicates
+something that is no longer
+accurate or relevant (but that
+should not be deleted). for example:
+   p Laptop computer **p**
+ p  s Was $995  s   p 
+ p Now only $375  p
+  
+  Visually the content of an  s 
+element will usually be displayed
+with a line through the center.
+ it is used very much when we talk about the prices of goods or products that has discounts or if there is a sale.88
