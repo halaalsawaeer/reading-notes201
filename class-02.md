@@ -79,3 +79,18 @@ should not be deleted). for example:
 element will usually be displayed
 with a line through the center.
  it is used very much when we talk about the prices of goods or products that has discounts or if there is a sale.88
+ 
+ A CSS rule
+contains two parts: a selector and a declaration.
+declarations sit inside curly brackets and each is made up of two
+parts: a property and a value
+The link element can be used
+in an HTML document to tell the
+browser where to find the CSS
+file used to style the page.
+You can also include CSS rules
+within an HTML page by placing
+them inside a <style> element,
+which usually sits inside the
+head element of the page. 
+  
