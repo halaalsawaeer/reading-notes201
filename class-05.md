@@ -1,10 +1,15 @@
 
-Images should...
- Be relevant
- Convey information
- Convey the right mood
- Be instantly recognisable
- Fit the color palette
+Images should :
+
+1. Be relevant
+
+2. Convey information
+
+3. Convey the right mood
+
+ 4.Be instantly recognisable
+ 
+ 5.Fit the color palett
  
  To add an image into the page
 you need to use an img
